@@ -1,0 +1,21 @@
+{
+    "name": "brave-theme",
+    "displayName": "Brave Theme",
+    "description": "This theme is made by Brave Programmer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brave Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brave Theme-color-theme.json"
+            }
+        ]
+    }
+}
