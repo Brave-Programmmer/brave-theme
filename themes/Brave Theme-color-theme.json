@@ -3,12 +3,12 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#372883",
+    "activityBar.background": "#211438",
     "activityBar.border": "#452cc060",
-    "activityBar.foreground": "#7873a3",
+    "activityBar.foreground": "#ffffff",
     "activityBarBadge.background": "#ffffff",
-    "activityBarBadge.foreground": "#1F1A38",
-    "badge.background": "#ff000030",
+    "activityBarBadge.foreground": "#000000",
+    "badge.background": "#ffffff30",
     "badge.foreground": "#071041",
     "breadcrumb.activeSelectionForeground": "#a1a6c4",
     "breadcrumb.background": "#171a4e",
@@ -86,8 +86,8 @@
     "list.activeSelectionBackground": "#1F1A38",
     "list.activeSelectionForeground": "#eaecf8",
     "list.focusBackground": "#242542",
-    "list.focusForeground": "#3349C4",
-    "list.highlightForeground": "#0B102C",
+    "list.focusForeground": "#b3b9d6",
+    "list.highlightForeground": "#fcfcff",
     "list.hoverBackground": "#2D41AF",
     "list.hoverForeground": "#9393FF",
     "list.inactiveSelectionBackground": "#1F1A3830",
@@ -116,7 +116,7 @@
     "notificationLink.foreground": "#0B102C",
     "notifications.background": "#1F1A38",
     "notifications.foreground": "#7575CA",
-    "panel.background": "#110b2b",
+    "panel.background": "#1b1829",
     "panel.border": "#64318d60",
     "panelTitle.activeBorder": "#797ec7",
     "panelTitle.activeForeground": "#9393FF",
@@ -186,17 +186,17 @@
     "terminal.ansiBrightWhite": "#9393FF",
     "terminal.ansiBrightYellow": "#665BAF",
     "terminal.ansiCyan": "#405BF7",
-    "terminal.ansiGreen": "#1C1930",
-    "terminal.ansiMagenta": "#665BAF",
-    "terminal.ansiRed": "#4586BA",
+    "terminal.ansiGreen": "#1eac48",
+    "terminal.ansiMagenta": "#c531b1",
+    "terminal.ansiRed": "#e01414",
     "terminal.ansiWhite": "#9393FF",
     "terminal.ansiYellow": "#665BAF",
     "terminalCursor.background": "#1F1A38",
     "terminalCursor.foreground": "#665BAF",
     "textLink.activeForeground": "#7575CA",
-    "textLink.foreground": "#c9cff3",
-    "titleBar.activeBackground": "#1F1A38",
-    "titleBar.activeForeground": "#2f2f5c",
+    "textLink.foreground": "#11131f",
+    "titleBar.activeBackground": "#181336",
+    "titleBar.activeForeground": "#f9f9ff",
     "titleBar.border": "#1F1A3860",
     "titleBar.inactiveBackground": "#1F1A38",
     "titleBar.inactiveForeground": "#3a4480",
@@ -214,7 +214,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#d3c6f5",
+        "foreground": "#ff9100",
         "fontStyle": "italic bold"
       }
     },
@@ -276,7 +276,7 @@
         "entity.name.tag.reference.scss"
       ],
       "settings": {
-        "foreground": "#9e61cf"
+        "foreground": "#e67a48"
       }
     },
     {
@@ -308,13 +308,13 @@
     {
       "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#12c5b6"
       }
     },
     {
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#6747db",
+        "foreground": "#00aeff",
 
         "fontStyle": "italic bold"
       }
@@ -326,10 +326,11 @@
         "punctuation.definition.comment.scss",
         "punctuation.definition.comment.js",
         "punctuation.definition.comment.html",
-        "comment.block.html"
+        "comment.block.html",
+        "comment"
       ],
       "settings": {
-        "foreground": "#6D6F7C"
+        "foreground": "#12c5b6"
       }
     },
     {
@@ -467,10 +468,11 @@
         "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types",
-        "entity.other.attribute-name.html"
+        "entity.other.attribute-name.html",
+        "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#9890cc"
+        "foreground": "#d45c0c"
       }
     },
     {
@@ -507,10 +509,11 @@
         "entity.name.method.js",
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js",
-        "punctuation.definition.tag"
+        "punctuation.definition.tag",
+        
       ],
       "settings": {
-        "foreground": "#bca1db",
+        "foreground": "#b8941f",
         "fontStyle": "italic"
       }
     },
@@ -534,7 +537,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#7575CA"
+        "foreground": "#b0e7b0"
       }
     },
     {
