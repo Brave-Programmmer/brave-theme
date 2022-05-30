@@ -429,7 +429,7 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#ac1f1f"
+        "foreground": "#df3535"
       }
     },
     {
@@ -454,7 +454,7 @@
         "string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#1C1930",
+        "foreground": "#ada0ff",
         "fontStyle": ""
       }
     },
@@ -491,7 +491,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#212F7E"
+        "foreground": "#91ff14"
       }
     },
     {
@@ -549,7 +549,7 @@
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#1C1930"
+        "foreground": "#ada0ff"
       }
     },
     {
