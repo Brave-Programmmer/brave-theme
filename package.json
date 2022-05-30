@@ -3,7 +3,7 @@
   "displayName": "Brave Theme",
   "description": "This theme is made by Brave Programmer",
   "publisher": "braveprogrammer",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "engines": {
     "vscode": "^1.67.0"
   },
