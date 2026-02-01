@@ -3,6 +3,11 @@
   "displayName": "Brave Theme",
   "description": "A darker vibe based theme for VSCode",
   "version": "3.0.0",
+  "publisher": "MohitPujari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brave-Programmmer/brave-theme.git"
+  },
   "engines": {
     "vscode": "^1.108.1"
   },
