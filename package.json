@@ -2,7 +2,7 @@
   "name": "brave-theme",
   "displayName": "Brave Theme",
   "description": "A darker vibe based theme for VSCode",
-  "version": "0.0.1",
+  "version": "3.0.0",
   "engines": {
     "vscode": "^1.108.1"
   },
